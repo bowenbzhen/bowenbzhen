@@ -1,7 +1,6 @@
 ### Hi, I’m Bowen. Here is what I have built and interested to build next.
 
-<div style="border: 1px solid #e5e7eb; border-radius: 10px; padding: 16px; margin-bottom: 16px;">
-  
+
 ### 📍 [Paseo · iOS Travel Photo Timeline  ](https://github.com/bowenbzhen/paseo) 
 
 An iOS app that transforms your travel photos into a chronological visual timeline, automatically organized by **location** and **date**.  
@@ -12,10 +11,6 @@ Instead of scrolling through thousands of camera roll photos, Paseo curates your
 - what you saw  
 
 Built for travelers who want to **relive and share trips** without the manual effort of journaling or scrapbooking.
-</div>
-
-
-<div style="border: 1px solid #e5e7eb; border-radius: 10px; padding: 16px; margin-bottom: 16px;">
 
 ### 🚧 Visual Knowledge Explorer  
 
@@ -26,7 +21,6 @@ Think of it as a visual taxonomy generator:
 - Type *"chili peppers"* or *"dog breeds"* → instantly see the diversity of a category laid out visually.  
 
 It’s part reference poster, part learning tool, making it easier to **explore, compare, and remember** the structure of almost anything.
-</div>
 
 
 
