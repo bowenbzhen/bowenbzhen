@@ -12,7 +12,7 @@ Instead of scrolling through thousands of camera roll photos, Paseo curates your
 
 Built for travelers who want to **relive and share trips** without the manual effort of journaling or scrapbooking.
 
-### 🔍 Visual Knowledge Explorer 
+### 🔍 [Visual Knowledge Explorer](https://github.com/bowenbzhen/visual-knowledge-explorer) 
 
 A visual knowledge expansion tool: type in a concept, and it generates a composed poster showcasing its **variants or subtypes**, each paired with a clean illustration and label.  
 
